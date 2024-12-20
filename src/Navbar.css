@@ -1,0 +1,13 @@
+.navbar{
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    backdrop-filter: blur(10px);
+    background: rgba(233, 176, 176, 0.4);
+}
+ .navbar a img{
+    width: 120px;
+    height: 68px;
+ }
+ 
