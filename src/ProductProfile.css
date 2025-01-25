@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.gaap{
+    margin-top: 50vh;
+    position: relative;
+}
+.sale a{
+    position: absolute;
+    left: 20vh;
+    margin-top: 7vh;
+    box-shadow: 2px 2px 5px;
+    text-decoration: none;
+    color: black;
+}
+.cricle{
+    display: flex;
+    gap: 20px;
+}
+.black{
+    background-color: black;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+
+}
+.sazi a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.cler {
+    font-weight:100;
+}
+.heading-beneer img{
+    height: 140px;
+    transition: 0.5s;
+}
+.add h5{
+    display: flex;
+
+}
+.mess .top{
+    font-family: 900;
+}
+.hover{
+    transition: 0.5s;
+}
+.col-lg-6 .hover:hover
+{
+    background-color:  #3182CE;;
+}
+    
+
